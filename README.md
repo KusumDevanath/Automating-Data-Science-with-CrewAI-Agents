@@ -8,9 +8,6 @@ by assigning specialized responsibilities to multiple AI agents that collaborate
 The project focuses on **regression-based predictive analytics** and showcases how tasks such as data understanding, 
 feature preparation, model training, evaluation, and reporting can be orchestrated with minimal human intervention.
 
-This work is designed as a **Master’s-level project** suitable for applications to MS programs in Artificial Intelligence, 
-Data Science, and Machine Learning in the United States.
-
 ---
 
 ## 🎯 Problem Statement
@@ -169,14 +166,3 @@ This project demonstrates:
 ├── README.md
 └── requirements.txt
 ```
-
----
-
-## 👤 Author
-**Master’s Project – Artificial Intelligence / Data Science**  
-Focus Areas: Agentic AI, Machine Learning Automation, Intelligent Systems
-
----
-
-## 📜 License
-This project is intended for academic and educational use.
