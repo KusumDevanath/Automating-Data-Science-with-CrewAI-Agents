@@ -164,5 +164,6 @@ This project demonstrates:
 ```
 ├── Automating Data Science with CrewAI Agents.ipynb
 ├── README.md
-└── requirements.txt
+└── notebookExecutor.py
+└── Weekly_Sales.csv
 ```
